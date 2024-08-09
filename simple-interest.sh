@@ -4,10 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
-   # Additional Authors:
-   # angelicagardner
-
+   # Author:G Manjunath (User:gpm@bimsadoni.ac.in) 
    # Input:
    # p, principal amount
    # t, time period in years
